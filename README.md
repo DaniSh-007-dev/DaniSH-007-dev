@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer** | React.js, JavaScript, Tailwind CSS, ASP.NET MVC  
 👨‍🎓 B.Tech in Computer Science and Engineering (2023-2027)  
-📍 Mohali, Punjab, India <br>
+📍 Jammu, Jammu & Kashmir , India <br>
 📄 Resume <a href="https://drive.google.com/file/d/1UghAzYOnOOJK4pU5S7zSnDlow49OwIA3/view?usp=sharing" style="text-decoration:none;">Danish RESUME</a>
 
 ---
